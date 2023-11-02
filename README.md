@@ -24,26 +24,29 @@ This is a simple web-based game where you can match countries with their corresp
 To run this game on your local machine, follow these steps:
 
 1. Clone this repository:
-
-   ```bash
+```
+   bash
    git clone https://github.com/your-username/country-capital-game.git
    ```
 
 2. Change to the project directory:
 
-   ```bash
+   ```
+bash
    cd country-capital-game
    ```
 
 3. Install the required dependencies:
 
-   ```bash
+   ```
+bash
    npm install
    ```
 
 4. Start the development server:
 
-   ```bash
+   ```
+bash
    npm start
    ```
 
